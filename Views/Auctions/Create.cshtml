@@ -1,0 +1,159 @@
+@model SimAuctionMVC.Models.Auction
+@{
+    ViewData["Title"] = "Tạo đấu giá mới";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h2><i class="fas fa-plus-circle"></i> Tạo đấu giá mới</h2>
+                <a href="@Url.Action("Index", "Admin")" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Quay lại Dashboard
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-mobile-alt"></i> Thông tin SIM đấu giá</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post">
+                        @Html.AntiForgeryToken()
+                        
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="SimNumber" class="form-label">
+                                        <i class="fas fa-phone"></i> Số SIM <span class="text-danger">*</span>
+                                    </label>
+                                    <input asp-for="SimNumber" class="form-control" placeholder="Ví dụ: 0987654321" />
+                                    <span asp-validation-for="SimNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="Carrier" class="form-label">
+                                        <i class="fas fa-signal"></i> Nhà mạng <span class="text-danger">*</span>
+                                    </label>
+                                    <select asp-for="Carrier" class="form-select">
+                                        <option value="">-- Chọn nhà mạng --</option>
+                                        <option value="Viettel">Viettel</option>
+                                        <option value="Mobifone">Mobifone</option>
+                                        <option value="Vinaphone">Vinaphone</option>
+                                        <option value="Vietnamobile">Vietnamobile</option>
+                                        <option value="Gmobile">Gmobile</option>
+                                    </select>
+                                    <span asp-validation-for="Carrier" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="Category" class="form-label">
+                                        <i class="fas fa-tags"></i> Danh mục <span class="text-danger">*</span>
+                                    </label>
+                                    <select asp-for="Category" class="form-select">
+                                        <option value="">-- Chọn danh mục --</option>
+                                        <option value="Tứ Quý">Tứ Quý (AAAA)</option>
+                                        <option value="Lộc Phát">Lộc Phát (68, 86, 78...)</option>
+                                        <option value="Thần Tài">Thần Tài (39, 79, 89...)</option>
+                                        <option value="Năm Sinh">Năm Sinh</option>
+                                        <option value="Taxi">Taxi (Đuôi 27, 37...)</option>
+                                        <option value="Khác">Khác</option>
+                                    </select>
+                                    <span asp-validation-for="Category" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="StartingPrice" class="form-label">
+                                        <i class="fas fa-money-bill"></i> Giá khởi điểm (VNĐ) <span class="text-danger">*</span>
+                                    </label>
+                                    <input asp-for="StartingPrice" type="number" class="form-control" placeholder="Ví dụ: 500000" min="0" step="10000" />
+                                    <span asp-validation-for="StartingPrice" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="StepPrice" class="form-label">
+                                        <i class="fas fa-step-forward"></i> Bước giá (VNĐ) <span class="text-danger">*</span>
+                                    </label>
+                                    <input asp-for="StepPrice" type="number" class="form-control" placeholder="Ví dụ: 50000" min="0" step="10000" />
+                                    <span asp-validation-for="StepPrice" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label asp-for="EndTime" class="form-label">
+                                        <i class="fas fa-clock"></i> Thời gian kết thúc <span class="text-danger">*</span>
+                                    </label>
+                                    <input asp-for="EndTime" type="datetime-local" class="form-control" />
+                                    <span asp-validation-for="EndTime" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">
+                                <i class="fas fa-align-left"></i> Mô tả
+                            </label>
+                            <textarea asp-for="Description" class="form-control" rows="4" placeholder="Mô tả chi tiết về số SIM này..."></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Image" class="form-label">
+                                <i class="fas fa-image"></i> Hình ảnh (URL)
+                            </label>
+                            <input asp-for="Image" class="form-control" placeholder="https://example.com/image.jpg" />
+                            <span asp-validation-for="Image" class="text-danger"></span>
+                            <div class="form-text">Để trống nếu không có hình ảnh</div>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a href="@Url.Action("Index", "Admin")" class="btn btn-secondary me-md-2">
+                                <i class="fas fa-times"></i> Hủy
+                            </a>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-save"></i> Tạo đấu giá
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Set default start time to now
+        document.addEventListener('DOMContentLoaded', function() {
+            const now = new Date();
+            now.setMinutes(now.getMinutes() - now.getTimezoneOffset());
+            
+            // Set default end time to 7 days from now
+            const endTime = new Date(now.getTime() + (7 * 24 * 60 * 60 * 1000));
+            document.querySelector('input[name="EndTime"]').value = endTime.toISOString().slice(0, 16);
+        });
+
+        // Format number inputs
+        document.querySelectorAll('input[type="number"]').forEach(input => {
+            input.addEventListener('input', function() {
+                if (this.value) {
+                    this.value = Math.abs(this.value);
+                }
+            });
+        });
+    </script>
+}

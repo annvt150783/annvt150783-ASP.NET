@@ -1,0 +1,153 @@
+@model List<SimAuctionMVC.Models.Auction>
+@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<div class="min-h-screen">
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-r from-red-600 via-red-700 to-orange-600 text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+            <div class="text-center">
+                <h1 class="text-4xl md:text-6xl font-bold mb-6">
+                    Tìm Kiếm SIM Số Đẹp
+                    <br />
+                    <span class="text-yellow-300">May Mắn Cho Bạn</span>
+                </h1>
+                <p class="text-xl md:text-2xl text-red-100 mb-8 max-w-3xl mx-auto">
+                    Nền tảng đấu giá SIM số đẹp uy tín, minh bạch và chuyên nghiệp. 
+                    Hàng ngàn lựa chọn với giá cạnh tranh nhất thị trường.
+                </p>
+                
+                <!-- Search Bar -->
+                <div class="max-w-md mx-auto mb-8">
+                    <div class="relative">
+                        <input
+                            type="text"
+                            placeholder="Nhập số SIM bạn muốn tìm..."
+                            class="w-full px-4 py-3 pl-12 rounded-lg text-gray-900 text-lg focus:outline-none focus:ring-2 focus:ring-yellow-400"
+                        />
+                        <i class="fas fa-search absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400"></i>
+                    </div>
+                </div>
+                
+                <a href="@Url.Action("Index", "Auctions")" class="bg-yellow-400 text-gray-900 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-yellow-300 transition-colors inline-block">
+                    Xem Tất Cả Phiên Đấu Giá
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Danh Mục SIM Nổi Bật</h2>
+                <p class="text-gray-600 text-lg">Khám phá các loại SIM số đẹp được yêu thích nhất</p>
+            </div>
+            
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+                <div class="bg-yellow-100 border-yellow-300 border-2 rounded-xl p-6 text-center hover:scale-105 transition-transform cursor-pointer">
+                    <div class="text-4xl mb-3">🎯</div>
+                    <h3 class="font-semibold text-gray-900 mb-2">SIM Tứ Quý</h3>
+                    <p class="text-gray-600 text-sm">Các số lặp 4 lần</p>
+                </div>
+                <div class="bg-green-100 border-green-300 border-2 rounded-xl p-6 text-center hover:scale-105 transition-transform cursor-pointer">
+                    <div class="text-4xl mb-3">💰</div>
+                    <h3 class="font-semibold text-gray-900 mb-2">SIM Lộc Phát</h3>
+                    <p class="text-gray-600 text-sm">Số 68, 86, 168...</p>
+                </div>
+                <div class="bg-red-100 border-red-300 border-2 rounded-xl p-6 text-center hover:scale-105 transition-transform cursor-pointer">
+                    <div class="text-4xl mb-3">🍀</div>
+                    <h3 class="font-semibold text-gray-900 mb-2">SIM Thần Tài</h3>
+                    <p class="text-gray-600 text-sm">Số 39, 79, 389...</p>
+                </div>
+                <div class="bg-blue-100 border-blue-300 border-2 rounded-xl p-6 text-center hover:scale-105 transition-transform cursor-pointer">
+                    <div class="text-4xl mb-3">🎂</div>
+                    <h3 class="font-semibold text-gray-900 mb-2">SIM Năm Sinh</h3>
+                    <p class="text-gray-600 text-sm">Chứa năm sinh</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Auctions -->
+    <section class="py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Đấu Giá Nổi Bật</h2>
+                <p class="text-gray-600 text-lg">Những phiên đấu giá hấp dẫn đang diễn ra</p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                @foreach (var auction in Model)
+                {
+                    <partial name="_AuctionCard" model="auction" />
+                }
+            </div>
+            
+            <div class="text-center mt-8">
+                <a href="@Url.Action("Index", "Auctions")" class="bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700 transition-colors inline-flex items-center space-x-2">
+                    <span>Xem Thêm Phiên Đấu Giá</span>
+                    <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Tại Sao Chọn Chúng Tôi?</h2>
+                <p class="text-gray-600 text-lg">Những lý do khách hàng tin tưởng SIMVàng</p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-white rounded-xl p-8 text-center shadow-md hover:shadow-lg transition-shadow">
+                    <div class="flex justify-center mb-4">
+                        <i class="fas fa-shield-alt text-blue-600 text-5xl"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-3">An Toàn & Uy Tín</h3>
+                    <p class="text-gray-600">Quy trình đấu giá minh bạch, thanh toán an toàn với các ngân hàng lớn</p>
+                </div>
+                <div class="bg-white rounded-xl p-8 text-center shadow-md hover:shadow-lg transition-shadow">
+                    <div class="flex justify-center mb-4">
+                        <i class="fas fa-users text-green-600 text-5xl"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-3">Cộng Đồng Lớn</h3>
+                    <p class="text-gray-600">Hơn 50,000 thành viên đang giao dịch tích cực trên nền tảng</p>
+                </div>
+                <div class="bg-white rounded-xl p-8 text-center shadow-md hover:shadow-lg transition-shadow">
+                    <div class="flex justify-center mb-4">
+                        <i class="fas fa-award text-yellow-600 text-5xl"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-3">Giá Tốt Nhất</h3>
+                    <p class="text-gray-600">Cam kết giá cạnh tranh nhất thị trường với nhiều ưu đãi hấp dẫn</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 bg-gradient-to-r from-blue-600 to-purple-700 text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div class="flex justify-center mb-6">
+                <i class="fas fa-star text-yellow-300 text-6xl"></i>
+            </div>
+            <h2 class="text-3xl md:text-4xl font-bold mb-4">
+                Bắt Đầu Tìm Kiếm SIM Số Đẹp Ngay Hôm Nay
+            </h2>
+            <p class="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
+                Đăng ký tài khoản miễn phí và tham gia vào hàng trăm phiên đấu giá hấp dẫn
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="@Url.Action("Register", "Account")" class="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                    Đăng Ký Miễn Phí
+                </a>
+                <a href="@Url.Action("Index", "Auctions")" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold hover:bg-white hover:text-blue-600 transition-colors">
+                    Khám Phá Ngay
+                </a>
+            </div>
+        </div>
+    </section>
+</div>

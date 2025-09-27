@@ -1,0 +1,57 @@
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<SimAuctionMVC.Models.ApplicationUser> SignInManager
+@inject UserManager<SimAuctionMVC.Models.ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="relative">
+        <button id="user-menu-btn" class="flex items-center space-x-2 text-gray-700 hover:text-red-600 transition-colors">
+            <i class="fas fa-user"></i>
+            <span>@User.Identity?.Name</span>
+        </button>
+        
+        <div id="user-menu" class="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-50 hidden">
+            <a href="@Url.Action("Index", "Manage")" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                <i class="fas fa-cog mr-2"></i>
+                Bảng Điều Khiển
+            </a>
+            <form method="post" action="@Url.Action("Logout", "Account")" class="block">
+                <button type="submit" class="block w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                    <i class="fas fa-sign-out-alt mr-2"></i>
+                    Đăng Xuất
+                </button>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div class="flex space-x-4">
+        <a href="@Url.Action("Login", "Account")" class="text-gray-700 hover:text-red-600 font-medium transition-colors">
+            Đăng Nhập
+        </a>
+        <a href="@Url.Action("Register", "Account")" class="bg-red-600 text-white px-4 py-2 rounded-lg hover:bg-red-700 transition-colors">
+            Đăng Ký
+        </a>
+    </div>
+}
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const userMenuBtn = document.getElementById('user-menu-btn');
+        const userMenu = document.getElementById('user-menu');
+        
+        if (userMenuBtn && userMenu) {
+            userMenuBtn.addEventListener('click', function() {
+                userMenu.classList.toggle('hidden');
+            });
+            
+            // Close menu when clicking outside
+            document.addEventListener('click', function(event) {
+                if (!userMenuBtn.contains(event.target) && !userMenu.contains(event.target)) {
+                    userMenu.classList.add('hidden');
+                }
+            });
+        }
+    });
+</script>

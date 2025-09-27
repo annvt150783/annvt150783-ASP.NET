@@ -1,0 +1,31 @@
+@model List<SimAuctionMVC.Models.Bid>
+
+@if (Model.Any())
+{
+    <div class="space-y-3">
+        @foreach (var bid in Model)
+        {
+            <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                <div class="flex items-center space-x-3">
+                    <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
+                        <i class="fas fa-user text-white text-sm"></i>
+                    </div>
+                    <div>
+                        <div class="font-medium text-gray-900">@bid.User.FullName</div>
+                        <div class="text-sm text-gray-500">@bid.Timestamp.ToString("dd/MM/yyyy HH:mm")</div>
+                    </div>
+                </div>
+                <div class="text-lg font-bold text-green-600">
+                    @bid.Amount.ToString("N0") VNĐ
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="text-center py-8 text-gray-500">
+        <i class="fas fa-gavel text-4xl mb-2"></i>
+        <p>Chưa có lượt đấu giá nào</p>
+    </div>
+}

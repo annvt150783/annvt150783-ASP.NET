@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SIMVàng - Đấu Giá SIM Số Đẹp</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="min-h-screen bg-gray-50 flex flex-col">
+    <header class="bg-white shadow-lg border-b-2 border-red-600">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <!-- Logo -->
+                <a href="@Url.Action("Index", "Home")" class="flex items-center space-x-2">
+                    <i class="fas fa-mobile-alt text-red-600 text-2xl"></i>
+                    <span class="text-2xl font-bold text-gray-900">SIM<span class="text-red-600">Vàng</span></span>
+                </a>
+
+                <!-- Desktop Navigation -->
+                <nav class="hidden md:flex items-center space-x-8">
+                    <a href="@Url.Action("Index", "Home")" class="text-gray-700 hover:text-red-600 font-medium transition-colors">
+                        Trang Chủ
+                    </a>
+                    <a href="@Url.Action("Index", "Auctions")" class="text-gray-700 hover:text-red-600 font-medium transition-colors">
+                        Đấu Giá
+                    </a>
+                    @if (User.Identity.IsAuthenticated && User.Identity.Name == "admin@sim.vn")
+                    {
+                        <a href="@Url.Action("Index", "Admin")" class="text-gray-700 hover:text-red-600 font-medium transition-colors">
+                            <i class="fas fa-cogs"></i> Quản Trị
+                        </a>
+                    }
+                </nav>
+
+                <!-- User Menu -->
+                <div class="hidden md:flex items-center space-x-4">
+                    <partial name="_LoginPartial" />
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="md:hidden">
+                    <button id="mobile-menu-btn" class="text-gray-700 hover:text-red-600">
+                        <i class="fas fa-bars text-xl"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mobile Navigation -->
+            <div id="mobile-menu" class="md:hidden hidden">
+                <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-gray-50 rounded-lg mt-2">
+                    <a href="@Url.Action("Index", "Home")" class="block px-3 py-2 text-gray-700 hover:text-red-600 font-medium">
+                        Trang Chủ
+                    </a>
+                    <a href="@Url.Action("Index", "Auctions")" class="block px-3 py-2 text-gray-700 hover:text-red-600 font-medium">
+                        Đấu Giá
+                    </a>
+                    @if (User.Identity.IsAuthenticated && User.Identity.Name == "admin@sim.vn")
+                    {
+                        <a href="@Url.Action("Index", "Admin")" class="block px-3 py-2 text-gray-700 hover:text-red-600 font-medium">
+                            <i class="fas fa-cogs"></i> Quản Trị
+                        </a>
+                    }
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="flex-1">
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show mx-4 mt-3" role="alert">
+                <i class="fas fa-check-circle"></i> @TempData["Success"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+        }
+        @if (TempData["Error"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show mx-4 mt-3" role="alert">
+                <i class="fas fa-exclamation-circle"></i> @TempData["Error"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+        }
+        @RenderBody()
+    </main>
+
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center">
+                <p>&copy; 2024 SIMVàng - Nền tảng đấu giá SIM số đẹp uy tín</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Mobile menu toggle
+        document.getElementById('mobile-menu-btn').addEventListener('click', function() {
+            const menu = document.getElementById('mobile-menu');
+            menu.classList.toggle('hidden');
+        });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

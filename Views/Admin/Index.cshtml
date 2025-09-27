@@ -1,0 +1,173 @@
+@model List<SimAuctionMVC.Models.Auction>
+@{
+    ViewData["Title"] = "Quản trị hệ thống";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="mb-4">
+                <i class="fas fa-tachometer-alt"></i> Dashboard Quản trị
+            </h2>
+        </div>
+    </div>
+
+    <!-- Thống kê tổng quan -->
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card bg-primary text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4>@ViewBag.TotalAuctions</h4>
+                            <p class="mb-0">Tổng đấu giá</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fas fa-gavel fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-success text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4>@ViewBag.ActiveAuctions</h4>
+                            <p class="mb-0">Đang diễn ra</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fas fa-play-circle fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-info text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4>@ViewBag.TotalUsers</h4>
+                            <p class="mb-0">Người dùng</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fas fa-users fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-warning text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4>@ViewBag.TotalBids</h4>
+                            <p class="mb-0">Lượt đấu giá</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fas fa-hand-paper fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Menu quản trị -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-cogs"></i> Chức năng quản trị</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <a href="@Url.Action("Auctions", "Admin")" class="btn btn-outline-primary btn-lg w-100">
+                                <i class="fas fa-gavel fa-2x d-block mb-2"></i>
+                                Quản lý đấu giá
+                            </a>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <a href="@Url.Action("Users", "Admin")" class="btn btn-outline-success btn-lg w-100">
+                                <i class="fas fa-users fa-2x d-block mb-2"></i>
+                                Quản lý người dùng
+                            </a>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <a href="@Url.Action("Create", "Auctions")" class="btn btn-outline-info btn-lg w-100">
+                                <i class="fas fa-plus fa-2x d-block mb-2"></i>
+                                Tạo đấu giá mới
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Đấu giá gần đây -->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-clock"></i> Đấu giá gần đây</h5>
+                </div>
+                <div class="card-body">
+                    @if (Model.Any())
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Số sim</th>
+                                        <th>Giá khởi điểm</th>
+                                        <th>Trạng thái</th>
+                                        <th>Ngày tạo</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var auction in Model)
+                                    {
+                                        <tr>
+                                            <td><strong>@auction.SimNumber</strong></td>
+                                            <td>@auction.StartingPrice.ToString("N0") VNĐ</td>
+                                            <td>
+                                                @if (auction.Status == "active")
+                                                {
+                                                    <span class="badge bg-success">Đang diễn ra</span>
+                                                }
+                                                else if (auction.Status == "completed")
+                                                {
+                                                    <span class="badge bg-primary">Hoàn thành</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge bg-secondary">@auction.Status</span>
+                                                }
+                                            </td>
+                                            <td>@auction.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                                            <td>
+                                                <a href="@Url.Action("Details", "Auctions", new { id = auction.Id })" class="btn btn-sm btn-outline-primary">
+                                                    <i class="fas fa-eye"></i> Xem
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <p class="text-muted">Chưa có đấu giá nào.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,91 @@
+@model dynamic
+
+<div class="row">
+    <div class="col-md-6">
+        <h6><i class="fas fa-user"></i> Thông tin cá nhân</h6>
+        <table class="table table-sm">
+            <tr>
+                <td><strong>ID:</strong></td>
+                <td>@Model.Id</td>
+            </tr>
+            <tr>
+                <td><strong>Họ tên:</strong></td>
+                <td>@Model.FullName</td>
+            </tr>
+            <tr>
+                <td><strong>Email:</strong></td>
+                <td>@Model.Email</td>
+            </tr>
+            <tr>
+                <td><strong>Số điện thoại:</strong></td>
+                <td>@(Model.PhoneNumber ?? "Chưa cập nhật")</td>
+            </tr>
+            <tr>
+                <td><strong>Ngày đăng ký:</strong></td>
+                <td>@Model.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-md-6">
+        <h6><i class="fas fa-chart-bar"></i> Thống kê hoạt động</h6>
+        <table class="table table-sm">
+            <tr>
+                <td><strong>Tổng lượt đấu giá:</strong></td>
+                <td><span class="badge bg-info">@Model.Bids.Count</span></td>
+            </tr>
+            <tr>
+                <td><strong>Trạng thái:</strong></td>
+                <td><span class="badge bg-success">Hoạt động</span></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+@if (Model.Bids.Any())
+{
+    <hr>
+    <h6><i class="fas fa-history"></i> Lịch sử đấu giá gần đây</h6>
+    <div class="table-responsive">
+        <table class="table table-sm table-striped">
+            <thead>
+                <tr>
+                    <th>Số sim</th>
+                    <th>Giá đấu</th>
+                    <th>Thời gian</th>
+                    <th>Trạng thái</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var bid in Model.Bids)
+                {
+                    <tr>
+                        <td><strong>@bid.Auction.SimNumber</strong></td>
+                        <td>@bid.Amount.ToString("N0") VNĐ</td>
+                        <td>@bid.Timestamp.ToString("dd/MM HH:mm")</td>
+                        <td>
+                            @if (bid.Auction.Status == "active")
+                            {
+                                <span class="badge bg-success">Đang diễn ra</span>
+                            }
+                            else if (bid.Auction.Status == "completed")
+                            {
+                                <span class="badge bg-primary">Hoàn thành</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-secondary">@bid.Auction.Status</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <hr>
+    <p class="text-muted text-center">
+        <i class="fas fa-info-circle"></i> Người dùng chưa tham gia đấu giá nào.
+    </p>
+}

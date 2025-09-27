@@ -1,0 +1,320 @@
+@model SimAuctionMVC.Models.Auction
+@{
+    ViewData["Title"] = $"Chi tiết SIM {Model.SimNumber}";
+}
+
+<div class="min-h-screen bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <!-- Main Content -->
+            <div class="lg:col-span-2">
+                <!-- Auction Info -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden mb-6">
+                    <div class="relative">
+                        <img src="@Model.Image" alt="SIM @Model.SimNumber" class="w-full h-64 object-cover" />
+                        <div class="absolute top-4 left-4">
+                            <span class="px-3 py-1 rounded-full text-sm font-medium @GetCarrierColor(Model.Carrier)">
+                                @Model.Carrier
+                            </span>
+                        </div>
+                        <div class="absolute top-4 right-4">
+                            <span class="px-3 py-1 rounded-full text-sm font-medium @GetCategoryColor(Model.Category)">
+                                @Model.Category
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="p-6">
+                        <div class="flex items-center justify-between mb-4">
+                            <h1 class="text-3xl font-bold text-gray-900">@Model.SimNumber</h1>
+                            <div class="flex items-center space-x-2 text-gray-500">
+                                <i class="fas fa-users"></i>
+                                <span class="total-bids">@Model.TotalBids lượt đấu giá</span>
+                            </div>
+                        </div>
+
+                        <p class="text-gray-600 mb-6">@Model.Description</p>
+
+                        <div class="grid grid-cols-2 gap-4 mb-6">
+                            <div class="bg-gray-50 p-4 rounded-lg">
+                                <div class="text-sm text-gray-500 mb-1">Giá khởi điểm</div>
+                                <div class="text-lg font-semibold text-gray-900">
+                                    @Model.StartingPrice.ToString("C0", new System.Globalization.CultureInfo("vi-VN"))
+                                </div>
+                            </div>
+                            <div class="bg-red-50 p-4 rounded-lg">
+                                <div class="text-sm text-red-500 mb-1">Giá hiện tại</div>
+                                <div class="text-2xl font-bold text-red-600 current-price">
+                                    @Model.CurrentPrice.ToString("N0") VNĐ
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="flex items-center justify-between p-4 bg-orange-50 rounded-lg">
+                            <div class="flex items-center space-x-2 text-orange-600">
+                                <i class="fas fa-clock"></i>
+                                <span class="font-medium">Thời gian còn lại:</span>
+                            </div>
+                            <div id="countdown" class="text-xl font-bold text-orange-600">
+                                @GetTimeLeft(Model.EndTime)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bid History -->
+                <div class="bg-white rounded-xl shadow-md p-6">
+                    <h2 class="text-xl font-bold text-gray-900 mb-4">Lịch sử đấu giá</h2>
+                    <div id="bid-history">
+                        @if (Model.Bids.Any())
+                        {
+                            <div class="space-y-3">
+                                @foreach (var bid in Model.Bids.OrderByDescending(b => b.Timestamp))
+                                {
+                                    <div class="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                                        <div class="flex items-center space-x-3">
+                                            <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
+                                                <i class="fas fa-user text-white text-sm"></i>
+                                            </div>
+                                            <div>
+                                                <div class="font-medium text-gray-900">@bid.User.FullName</div>
+                                                <div class="text-sm text-gray-500">@bid.Timestamp.ToString("dd/MM/yyyy HH:mm")</div>
+                                            </div>
+                                        </div>
+                                        <div class="text-lg font-bold text-green-600">
+                                            @bid.Amount.ToString("N0") VNĐ
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="text-center py-8 text-gray-500">
+                                <i class="fas fa-gavel text-4xl mb-2"></i>
+                                <p>Chưa có lượt đấu giá nào</p>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <div class="lg:col-span-1">
+                <div class="bg-white rounded-xl shadow-md p-6 sticky top-4">
+                    <h3 class="text-lg font-bold text-gray-900 mb-4">Tham gia đấu giá</h3>
+                    
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        @if (Model.Status == "active")
+                        {
+                            <form id="bid-form" class="space-y-4">
+                                @Html.AntiForgeryToken()
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700 mb-2">
+                                        Giá đấu (tối thiểu: @((Model.CurrentPrice + Model.StepPrice).ToString("C0", new System.Globalization.CultureInfo("vi-VN"))))
+                                    </label>
+                                    <input type="number" 
+                                           id="bid-amount" 
+                                           min="@(Model.CurrentPrice + Model.StepPrice)"
+                                           step="@Model.StepPrice"
+                                           class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500"
+                                           placeholder="Nhập giá đấu của bạn" />
+                                </div>
+                                <button type="submit" 
+                                        class="w-full bg-red-600 text-white py-3 px-4 rounded-lg hover:bg-red-700 transition-colors font-semibold">
+                                    <i class="fas fa-gavel mr-2"></i>
+                                    Đấu Giá Ngay
+                                </button>
+                            </form>
+                        }
+                        else
+                        {
+                            <div class="text-center py-4">
+                                <div class="text-gray-500 mb-2">
+                                    <i class="fas fa-clock text-2xl"></i>
+                                </div>
+                                <p class="text-gray-600">Phiên đấu giá đã kết thúc</p>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <div class="text-center py-4">
+                            <p class="text-gray-600 mb-4">Đăng nhập để tham gia đấu giá</p>
+                            <a href="@Url.Action("Login", "Account")" 
+                               class="w-full bg-blue-600 text-white py-3 px-4 rounded-lg hover:bg-blue-700 transition-colors font-semibold inline-block text-center">
+                                Đăng Nhập
+                            </a>
+                        </div>
+                    }
+
+                    <!-- Auction Details -->
+                    <div class="mt-6 pt-6 border-t border-gray-200">
+                        <h4 class="font-semibold text-gray-900 mb-3">Thông tin đấu giá</h4>
+                        <div class="space-y-2 text-sm">
+                            <div class="flex justify-between">
+                                <span class="text-gray-500">Bước giá:</span>
+                                <span class="font-medium">@Model.StepPrice.ToString("C0", new System.Globalization.CultureInfo("vi-VN"))</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span class="text-gray-500">Bắt đầu:</span>
+                                <span class="font-medium">@Model.StartTime.ToString("dd/MM/yyyy HH:mm")</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span class="text-gray-500">Kết thúc:</span>
+                                <span class="font-medium">@Model.EndTime.ToString("dd/MM/yyyy HH:mm")</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@functions {
+    private string GetCarrierColor(string carrier)
+    {
+        return carrier switch
+        {
+            "Viettel" => "bg-green-100 text-green-800",
+            "Mobifone" => "bg-blue-100 text-blue-800",
+            "Vinaphone" => "bg-purple-100 text-purple-800",
+            _ => "bg-gray-100 text-gray-800"
+        };
+    }
+
+    private string GetCategoryColor(string category)
+    {
+        return category switch
+        {
+            "Tứ Quý" => "bg-yellow-100 text-yellow-800",
+            "Lộc Phát" => "bg-red-100 text-red-800",
+            "Thần Tài" => "bg-orange-100 text-orange-800",
+            "Năm Sinh" => "bg-indigo-100 text-indigo-800",
+            _ => "bg-gray-100 text-gray-800"
+        };
+    }
+
+    private string GetTimeLeft(DateTime endTime)
+    {
+        var timeLeft = endTime - DateTime.Now;
+        if (timeLeft.TotalSeconds <= 0)
+            return "Đã kết thúc";
+        
+        if (timeLeft.TotalDays >= 1)
+            return $"{(int)timeLeft.TotalDays}d {timeLeft.Hours}h {timeLeft.Minutes}m";
+        
+        return $"{timeLeft.Hours}h {timeLeft.Minutes}m {timeLeft.Seconds}s";
+    }
+}
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            // Xử lý form đấu giá
+            $('#bid-form').on('submit', function(e) {
+                e.preventDefault();
+                
+                var amount = $('#bid-amount').val();
+                if (!amount) {
+                    alert('Vui lòng nhập giá đấu');
+                    return;
+                }
+                
+                $.ajax({
+                    url: '@Url.Action("PlaceBid", "Auctions")',
+                    type: 'POST',
+                    data: {
+                        auctionId: @Model.Id,
+                        amount: amount,
+                        __RequestVerificationToken: $('input[name="__RequestVerificationToken"]').val()
+                    },
+                    success: function(response) {
+                        if (response.success) {
+                            // Hiển thị thông báo thành công
+                            showNotification(response.message, 'success');
+                            
+                            // Cập nhật giá hiện tại
+                            $('.current-price').text(response.newPrice + ' VNĐ');
+                            
+                            // Cập nhật số lượt đấu giá
+                            $('.total-bids').text(response.totalBids + ' lượt đấu giá');
+                            
+                            // Cập nhật giá tối thiểu tiếp theo
+                            $('#bid-amount').attr('min', response.nextMinimum.replace(',', ''));
+                            $('label[for="bid-amount"]').text('Giá đấu (tối thiểu: ' + response.nextMinimum + ' VNĐ)');
+                            
+                            // Xóa giá trị input
+                            $('#bid-amount').val('');
+                            
+                            // Tải lại lịch sử đấu giá
+                            loadBidHistory();
+                        } else {
+                            showNotification(response.message, 'error');
+                        }
+                    },
+                    error: function() {
+                        showNotification('Có lỗi xảy ra, vui lòng thử lại', 'error');
+                    }
+                });
+            });
+            
+            // Tự động tải lại lịch sử đấu giá mỗi 10 giây
+            setInterval(loadBidHistory, 10000);
+            
+            // Cập nhật đếm ngược thời gian
+            updateCountdown();
+            setInterval(updateCountdown, 1000);
+        });
+        
+        function loadBidHistory() {
+            $.get('@Url.Action("GetBidHistory", "Auctions")', { auctionId: @Model.Id }, function(data) {
+                $('#bid-history').html(data);
+            });
+        }
+        
+        function updateCountdown() {
+            var endTime = new Date('@Model.EndTime.ToString("yyyy-MM-ddTHH:mm:ss")');
+            var now = new Date();
+            var timeLeft = endTime - now;
+            
+            if (timeLeft <= 0) {
+                $('#countdown').text('Đã kết thúc');
+                $('#bid-form').hide();
+                return;
+            }
+            
+            var days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+            
+            var countdownText = '';
+            if (days > 0) {
+                countdownText = days + 'd ' + hours + 'h ' + minutes + 'm';
+            } else {
+                countdownText = hours + 'h ' + minutes + 'm ' + seconds + 's';
+            }
+            
+            $('#countdown').text(countdownText);
+        }
+        
+        function showNotification(message, type) {
+            var alertClass = type === 'success' ? 'alert-success' : 'alert-danger';
+            var icon = type === 'success' ? 'fa-check-circle' : 'fa-exclamation-circle';
+            
+            var notification = $('<div class="alert ' + alertClass + ' alert-dismissible fade show position-fixed" style="top: 20px; right: 20px; z-index: 9999; min-width: 300px;" role="alert">' +
+                '<i class="fas ' + icon + '"></i> ' + message +
+                '<button type="button" class="btn-close" data-bs-dismiss="alert"></button>' +
+                '</div>');
+            
+            $('body').append(notification);
+            
+            setTimeout(function() {
+                notification.alert('close');
+            }, 5000);
+        }
+    </script>
+}

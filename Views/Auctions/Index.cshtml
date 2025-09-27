@@ -1,0 +1,153 @@
+@model List<SimAuctionMVC.Models.Auction>
+@{
+    ViewData["Title"] = "Đấu Giá SIM Số Đẹp";
+}
+
+<div class="min-h-screen bg-gray-50">
+    <!-- Header -->
+    <div class="bg-white shadow-sm border-b">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between">
+                <div>
+                    <h1 class="text-2xl font-bold text-gray-900">Đấu Giá SIM Số Đẹp</h1>
+                    <p class="text-gray-600 mt-1">
+                        @Model.Count phiên đấu giá đang diễn ra
+                    </p>
+                </div>
+                
+                <!-- Search Bar -->
+                <div class="mt-4 lg:mt-0 lg:w-80">
+                    <form method="get" class="relative">
+                        <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"></i>
+                        <input
+                            type="text"
+                            name="search"
+                            value="@ViewBag.Search"
+                            placeholder="Tìm kiếm số SIM..."
+                            class="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500"
+                        />
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="lg:grid lg:grid-cols-4 lg:gap-8">
+            <!-- Filters Sidebar -->
+            <div class="lg:col-span-1">
+                <div class="bg-white rounded-lg shadow-sm p-6 sticky top-4">
+                    <div class="flex items-center justify-between mb-6">
+                        <h2 class="text-lg font-semibold text-gray-900 flex items-center">
+                            <i class="fas fa-filter mr-2"></i>
+                            Bộ Lọc
+                        </h2>
+                        <button id="filter-toggle" class="lg:hidden text-red-600 hover:text-red-700">
+                            <span id="filter-text">Hiện</span>
+                        </button>
+                    </div>
+
+                    <form method="get" id="filter-form" class="space-y-6 hidden lg:block">
+                        <input type="hidden" name="search" value="@ViewBag.Search" />
+                        
+                        <!-- Carrier Filter -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Nhà Mạng
+                            </label>
+                            <select name="carrier" class="w-full border border-gray-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-red-500 focus:border-red-500" onchange="this.form.submit()">
+                                <option value="">Tất cả</option>
+                                <option value="Viettel" selected="@(ViewBag.Carrier == "Viettel")">Viettel</option>
+                                <option value="Mobifone" selected="@(ViewBag.Carrier == "Mobifone")">Mobifone</option>
+                                <option value="Vinaphone" selected="@(ViewBag.Carrier == "Vinaphone")">Vinaphone</option>
+                            </select>
+                        </div>
+
+                        <!-- Category Filter -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Loại SIM
+                            </label>
+                            <select name="category" class="w-full border border-gray-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-red-500 focus:border-red-500" onchange="this.form.submit()">
+                                <option value="">Tất cả</option>
+                                <option value="Tứ Quý" selected="@(ViewBag.Category == "Tứ Quý")">Tứ Quý</option>
+                                <option value="Lộc Phát" selected="@(ViewBag.Category == "Lộc Phát")">Lộc Phát</option>
+                                <option value="Thần Tài" selected="@(ViewBag.Category == "Thần Tài")">Thần Tài</option>
+                                <option value="Năm Sinh" selected="@(ViewBag.Category == "Năm Sinh")">Năm Sinh</option>
+                            </select>
+                        </div>
+
+                        <!-- Price Range Filter -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Khoảng Giá
+                            </label>
+                            <select name="priceRange" class="w-full border border-gray-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-red-500 focus:border-red-500" onchange="this.form.submit()">
+                                <option value="">Tất cả</option>
+                                <option value="0-10" selected="@(ViewBag.PriceRange == "0-10")">Dưới 10 triệu</option>
+                                <option value="10-50" selected="@(ViewBag.PriceRange == "10-50")">10 - 50 triệu</option>
+                                <option value="50-100" selected="@(ViewBag.PriceRange == "50-100")">50 - 100 triệu</option>
+                                <option value="100-" selected="@(ViewBag.PriceRange == "100-")">Trên 100 triệu</option>
+                            </select>
+                        </div>
+
+                        <!-- Sort Options -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Sắp Xếp Theo
+                            </label>
+                            <select name="sortBy" class="w-full border border-gray-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-red-500 focus:border-red-500" onchange="this.form.submit()">
+                                <option value="endTime" selected="@(ViewBag.SortBy == "endTime")">Thời gian kết thúc</option>
+                                <option value="price-asc" selected="@(ViewBag.SortBy == "price-asc")">Giá thấp đến cao</option>
+                                <option value="price-desc" selected="@(ViewBag.SortBy == "price-desc")">Giá cao đến thấp</option>
+                                <option value="bids" selected="@(ViewBag.SortBy == "bids")">Số lượt đấu giá</option>
+                            </select>
+                        </div>
+
+                        <a href="@Url.Action("Index", "Auctions")" class="w-full bg-gray-100 text-gray-700 py-2 px-4 rounded-lg hover:bg-gray-200 transition-colors block text-center">
+                            Xóa Tất Cả Bộ Lọc
+                        </a>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Auction Grid -->
+            <div class="mt-8 lg:mt-0 lg:col-span-3">
+                @if (Model.Any())
+                {
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        @foreach (var auction in Model)
+                        {
+                            <partial name="_AuctionCard" model="auction" />
+                        }
+                    </div>
+                }
+                else
+                {
+                    <div class="text-center py-12">
+                        <div class="text-gray-400 text-6xl mb-4">📱</div>
+                        <h3 class="text-lg font-medium text-gray-900 mb-2">
+                            Không tìm thấy phiên đấu giá nào
+                        </h3>
+                        <p class="text-gray-600 mb-4">
+                            Hãy thử điều chỉnh bộ lọc hoặc tìm kiếm với từ khóa khác
+                        </p>
+                        <a href="@Url.Action("Index", "Auctions")" class="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors">
+                            Xóa Bộ Lọc
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById('filter-toggle').addEventListener('click', function() {
+        const form = document.getElementById('filter-form');
+        const text = document.getElementById('filter-text');
+        
+        form.classList.toggle('hidden');
+        text.textContent = form.classList.contains('hidden') ? 'Hiện' : 'Ẩn';
+    });
+</script>

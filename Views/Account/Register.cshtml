@@ -1,0 +1,75 @@
+@model SimAuctionMVC.Controllers.RegisterViewModel
+@{
+    ViewData["Title"] = "Đăng ký";
+}
+
+<div class="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
+    <div class="sm:mx-auto sm:w-full sm:max-w-md">
+        <div class="flex justify-center">
+            <i class="fas fa-mobile-alt text-red-600 text-5xl"></i>
+        </div>
+        <h2 class="mt-6 text-center text-3xl font-bold text-gray-900">
+            Đăng Ký Tài Khoản
+        </h2>
+        <p class="mt-2 text-center text-sm text-gray-600">
+            Hoặc 
+            <a asp-action="Login" asp-route-returnUrl="@ViewData["ReturnUrl"]" class="font-medium text-red-600 hover:text-red-500">
+                đăng nhập nếu đã có tài khoản
+            </a>
+        </p>
+    </div>
+
+    <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+        <div class="bg-white py-8 px-4 shadow-lg sm:rounded-lg sm:px-10">
+            <form asp-action="Register" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-red-600 mb-4"></div>
+                
+                <div class="mb-4">
+                    <label asp-for="FullName" class="block text-sm font-medium text-gray-700">Họ và tên</label>
+                    <div class="mt-1">
+                        <input asp-for="FullName" class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-red-500 focus:border-red-500 sm:text-sm" placeholder="Nhập họ và tên" />
+                        <span asp-validation-for="FullName" class="text-red-600 text-sm"></span>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="Email" class="block text-sm font-medium text-gray-700">Email</label>
+                    <div class="mt-1">
+                        <input asp-for="Email" class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-red-500 focus:border-red-500 sm:text-sm" placeholder="Nhập email của bạn" />
+                        <span asp-validation-for="Email" class="text-red-600 text-sm"></span>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="PhoneNumber" class="block text-sm font-medium text-gray-700">Số điện thoại</label>
+                    <div class="mt-1">
+                        <input asp-for="PhoneNumber" class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-red-500 focus:border-red-500 sm:text-sm" placeholder="Nhập số điện thoại" />
+                        <span asp-validation-for="PhoneNumber" class="text-red-600 text-sm"></span>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="Password" class="block text-sm font-medium text-gray-700">Mật khẩu</label>
+                    <div class="mt-1">
+                        <input asp-for="Password" class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-red-500 focus:border-red-500 sm:text-sm" placeholder="Nhập mật khẩu" />
+                        <span asp-validation-for="Password" class="text-red-600 text-sm"></span>
+                    </div>
+                </div>
+
+                <div class="mb-6">
+                    <label asp-for="ConfirmPassword" class="block text-sm font-medium text-gray-700">Xác nhận mật khẩu</label>
+                    <div class="mt-1">
+                        <input asp-for="ConfirmPassword" class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-red-500 focus:border-red-500 sm:text-sm" placeholder="Nhập lại mật khẩu" />
+                        <span asp-validation-for="ConfirmPassword" class="text-red-600 text-sm"></span>
+                    </div>
+                </div>
+
+                <div>
+                    <button type="submit" class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+                        Đăng Ký
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

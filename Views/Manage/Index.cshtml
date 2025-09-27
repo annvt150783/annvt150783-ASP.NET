@@ -1,0 +1,163 @@
+@model SimAuctionMVC.Controllers.ManageViewModel
+@{
+    ViewData["Title"] = "Bảng Điều Khiển";
+}
+
+<div class="min-h-screen bg-gray-50 py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="mb-8">
+            <h1 class="text-3xl font-bold text-gray-900">Bảng Điều Khiển</h1>
+            <p class="text-gray-600 mt-2">Quản lý thông tin cá nhân và lịch sử đấu giá</p>
+        </div>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="mb-6 bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded-lg">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <!-- Thông tin cá nhân -->
+            <div class="lg:col-span-1">
+                <div class="bg-white rounded-xl shadow-md p-6">
+                    <h2 class="text-xl font-semibold text-gray-900 mb-6">Thông Tin Cá Nhân</h2>
+                    
+                    <form asp-action="UpdateProfile" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-red-600 mb-4"></div>
+                        
+                        <div class="mb-4">
+                            <label asp-for="FullName" class="block text-sm font-medium text-gray-700 mb-2">Họ và tên</label>
+                            <input asp-for="FullName" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500" />
+                            <span asp-validation-for="FullName" class="text-red-600 text-sm"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Email" class="block text-sm font-medium text-gray-700 mb-2">Email</label>
+                            <input asp-for="Email" readonly class="w-full px-3 py-2 border border-gray-300 rounded-lg bg-gray-100 cursor-not-allowed" />
+                            <p class="text-xs text-gray-500 mt-1">Email không thể thay đổi</p>
+                        </div>
+
+                        <div class="mb-6">
+                            <label asp-for="PhoneNumber" class="block text-sm font-medium text-gray-700 mb-2">Số điện thoại</label>
+                            <input asp-for="PhoneNumber" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500" />
+                            <span asp-validation-for="PhoneNumber" class="text-red-600 text-sm"></span>
+                        </div>
+
+                        <button type="submit" class="w-full bg-red-600 text-white py-2 px-4 rounded-lg hover:bg-red-700 transition-colors">
+                            Cập Nhật Thông Tin
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Lịch sử đấu giá -->
+            <div class="lg:col-span-2">
+                <div class="bg-white rounded-xl shadow-md p-6">
+                    <h2 class="text-xl font-semibold text-gray-900 mb-6">Lịch Sử Đấu Giá</h2>
+                    
+                    @if (ViewBag.UserBids != null && ((List<SimAuctionMVC.Models.Bid>)ViewBag.UserBids).Any())
+                    {
+                        <div class="space-y-4">
+                            @foreach (var bid in (List<SimAuctionMVC.Models.Bid>)ViewBag.UserBids)
+                            {
+                                <div class="border border-gray-200 rounded-lg p-4 hover:bg-gray-50 transition-colors">
+                                    <div class="flex items-center justify-between">
+                                        <div class="flex-1">
+                                            <div class="flex items-center space-x-3">
+                                                <div class="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center">
+                                                    <i class="fas fa-mobile-alt text-red-600"></i>
+                                                </div>
+                                                <div>
+                                                    <h3 class="font-semibold text-gray-900">SIM @bid.Auction.SimNumber</h3>
+                                                    <p class="text-sm text-gray-600">@bid.Auction.Carrier - @bid.Auction.Category</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="text-right">
+                                            <div class="text-lg font-bold text-green-600">
+                                                @bid.Amount.ToString("C0", new System.Globalization.CultureInfo("vi-VN"))
+                                            </div>
+                                            <div class="text-sm text-gray-500">
+                                                @bid.Timestamp.ToString("dd/MM/yyyy HH:mm")
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="mt-3 flex items-center justify-between">
+                                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium @GetStatusColor(bid.Auction.Status)">
+                                            @GetStatusText(bid.Auction.Status)
+                                        </span>
+                                        <a href="@Url.Action("Details", "Auctions", new { id = bid.AuctionId })" 
+                                           class="text-red-600 hover:text-red-700 text-sm font-medium">
+                                            Xem chi tiết →
+                                        </a>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="text-center py-12">
+                            <div class="text-gray-400 text-6xl mb-4">
+                                <i class="fas fa-gavel"></i>
+                            </div>
+                            <h3 class="text-lg font-medium text-gray-900 mb-2">Chưa có lịch sử đấu giá</h3>
+                            <p class="text-gray-600 mb-4">Bạn chưa tham gia đấu giá phiên nào</p>
+                            <a href="@Url.Action("Index", "Auctions")" 
+                               class="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors">
+                                Khám Phá Đấu Giá
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Thống kê nhanh -->
+        <div class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="bg-white rounded-xl shadow-md p-6 text-center">
+                <div class="text-3xl font-bold text-blue-600 mb-2">
+                    @(ViewBag.UserBids != null ? ((List<SimAuctionMVC.Models.Bid>)ViewBag.UserBids).Count : 0)
+                </div>
+                <div class="text-gray-600">Lượt đấu giá</div>
+            </div>
+            <div class="bg-white rounded-xl shadow-md p-6 text-center">
+                <div class="text-3xl font-bold text-green-600 mb-2">
+                    @(ViewBag.UserBids != null ? ((List<SimAuctionMVC.Models.Bid>)ViewBag.UserBids).Select(b => b.AuctionId).Distinct().Count() : 0)
+                </div>
+                <div class="text-gray-600">Phiên tham gia</div>
+            </div>
+            <div class="bg-white rounded-xl shadow-md p-6 text-center">
+                <div class="text-3xl font-bold text-yellow-600 mb-2">
+                    @(ViewBag.UserBids != null ? ((List<SimAuctionMVC.Models.Bid>)ViewBag.UserBids).Where(b => b.Auction.Status == "ended" && b.Auction.WinnerId == User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value).Count() : 0)
+                </div>
+                <div class="text-gray-600">Phiên thắng</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@functions {
+    private string GetStatusColor(string status)
+    {
+        return status switch
+        {
+            "active" => "bg-green-100 text-green-800",
+            "ended" => "bg-gray-100 text-gray-800",
+            "upcoming" => "bg-blue-100 text-blue-800",
+            _ => "bg-gray-100 text-gray-800"
+        };
+    }
+
+    private string GetStatusText(string status)
+    {
+        return status switch
+        {
+            "active" => "Đang diễn ra",
+            "ended" => "Đã kết thúc",
+            "upcoming" => "Sắp diễn ra",
+            _ => "Không xác định"
+        };
+    }
+}

@@ -1,0 +1,688 @@
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.exe
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Text.Json.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.csproj.AssemblyReference.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.AssemblyInfoInputs.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.AssemblyInfo.cs
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.csproj.CoreCompileInputs.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.RazorAssemblyInfo.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.RazorAssemblyInfo.cs
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\appsettings.Development.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\appsettings.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.staticwebassets.runtime.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.staticwebassets.endpoints.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.deps.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.runtimeconfig.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.pdb
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Humanizer.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Build.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.Common.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.CodeDom.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\scopedcss\bundle\SimAuctionMVC.styles.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\scopedcss\projectbundle\SimAuctionMVC.bundle.scp.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\w7ibf92vt4-b9sayid5wm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\bmqj58kg91-61n19gt1b8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\bwhoael8pm-xtxxf3hu2r.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\kqan3hrl4u-bqjiyaj88i.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\mao73xmidd-c2jlpeoesf.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\q6eyp4xpcu-erw9l3u2r3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\wgj325apm3-aexeepp0ev.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\umu51zvm9h-d7shbmvgxk.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\c5o4issns3-ausgxo2sd3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\26hdntda08-k8d9w2qqmf.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\mphbntnsvb-cosvhxvwiu.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\48es1k8hot-ub07r2b239.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\254ui17rzs-fvhpjtyr6v.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\2nvo306nc2-b7pk76d08c.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\zr0dplyz68-fsbi9cje9m.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\8yns5uofs0-rzd6atqjts.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\xuvavfwcif-ee0r1s7dh0.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\1spoduj20m-dxx9fxp4il.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\j9nfz9hfad-jd9uben2k1.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\en27r2rmlm-khv3u5hwcm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\1342ll26ch-r4e9w2rdcm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\xashxjc6km-lcd1t2u6c8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\s9tz7uaov4-c2oey78nd0.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\gus5g8j56t-tdbxkamptv.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\vdr4hxejxv-j5mq2jizvt.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\fg0uy8ejsp-06098lyss8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\87f48edhnm-nvvlpmu67g.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\hk0tljpfri-s35ty4nyc5.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\gnt38nahq6-pj5nd1wqec.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\ua1fys0ws6-46ein0sx1k.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\1lggv99ujj-v0zj4ognzu.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\p70onfpqpm-37tfw0ft22.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\dmjif9pt2u-hrwsygsryq.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\uur5agllhk-pk9g2wxc8p.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\yewhjx21ai-ft3s53vfgj.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\8lv41hizx3-6cfz1n2cew.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\ab1mihh5xz-6pdc2jztkx.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\u423f51zfj-493y06b0oq.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\ew2keo8bjg-iovd86k7lj.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\5qil4mnbb3-vr1egmr9el.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\5hjlsct60v-kbrnm935zg.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\j5polxx5ny-jj8uyg4cgr.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\wzepzzn81r-y7v9cxd14o.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\uao48ifxa2-notf2xhcfb.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\199hn1lev1-h1s4sie4z3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\814jnosotd-63fj8s7r0e.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\h6i730t4ww-0j3bgjxly4.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\lspr7ocnsb-47otxtyo56.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\whyd5h8b2w-4v8eqarkd7.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\hvkx8j1bus-356vix0kms.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\iiwaaroibx-83jwlth58m.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\z4afutjodu-mrlpezrjn3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\jra8uze65g-lzl9nlhx6b.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\8sjh82rpxi-ag7o75518u.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\dwtcxmz4f8-x0q3zqp4vz.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\hlf46wxwcq-0i3buxo5is.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\6qd97x40ot-o1o13a6vjx.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\euw9wajagk-ttgo8qnofa.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\3gncyr8i4w-2z0ns9nrw6.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\z7qnezoizb-muycvpuwrr.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\0v3988o7u0-87fc7y1x7t.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\gqvf7edcgi-mlv21k5csn.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\5idfy52jyv-o1uj0nqc9q.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\compressed\wv4rtu5t6i-o1uj0nqc9q.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.build.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.development.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAucti.F6337202.Up2Date
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\refint\SimAuctionMVC.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.pdb
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.genruntimeconfig.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\website linh kiện điện tử\2\SimAuctionMVC\obj\Debug\net9.0\ref\SimAuctionMVC.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\appsettings.Development.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\appsettings.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.staticwebassets.endpoints.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.staticwebassets.runtime.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.exe
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.deps.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.runtimeconfig.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SimAuctionMVC.pdb
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Humanizer.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Build.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.Common.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.CodeDom.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\System.Text.Json.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.csproj.AssemblyReference.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.AssemblyInfoInputs.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.AssemblyInfo.cs
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.csproj.CoreCompileInputs.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.RazorAssemblyInfo.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.RazorAssemblyInfo.cs
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\scopedcss\bundle\SimAuctionMVC.styles.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\scopedcss\projectbundle\SimAuctionMVC.bundle.scp.css
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\w7ibf92vt4-b9sayid5wm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\bmqj58kg91-61n19gt1b8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\bwhoael8pm-xtxxf3hu2r.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\kqan3hrl4u-bqjiyaj88i.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\mao73xmidd-c2jlpeoesf.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\q6eyp4xpcu-erw9l3u2r3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\wgj325apm3-aexeepp0ev.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\umu51zvm9h-d7shbmvgxk.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\c5o4issns3-ausgxo2sd3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\26hdntda08-k8d9w2qqmf.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\mphbntnsvb-cosvhxvwiu.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\48es1k8hot-ub07r2b239.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\254ui17rzs-fvhpjtyr6v.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\2nvo306nc2-b7pk76d08c.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\zr0dplyz68-fsbi9cje9m.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\8yns5uofs0-rzd6atqjts.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\xuvavfwcif-ee0r1s7dh0.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\1spoduj20m-dxx9fxp4il.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\j9nfz9hfad-jd9uben2k1.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\en27r2rmlm-khv3u5hwcm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\1342ll26ch-r4e9w2rdcm.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\xashxjc6km-lcd1t2u6c8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\s9tz7uaov4-c2oey78nd0.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\gus5g8j56t-tdbxkamptv.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\vdr4hxejxv-j5mq2jizvt.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\fg0uy8ejsp-06098lyss8.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\87f48edhnm-nvvlpmu67g.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\hk0tljpfri-s35ty4nyc5.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\gnt38nahq6-pj5nd1wqec.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\ua1fys0ws6-46ein0sx1k.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\1lggv99ujj-v0zj4ognzu.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\p70onfpqpm-37tfw0ft22.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\dmjif9pt2u-hrwsygsryq.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\uur5agllhk-pk9g2wxc8p.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\yewhjx21ai-ft3s53vfgj.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\8lv41hizx3-6cfz1n2cew.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\ab1mihh5xz-6pdc2jztkx.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\u423f51zfj-493y06b0oq.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\ew2keo8bjg-iovd86k7lj.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\5qil4mnbb3-vr1egmr9el.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\5hjlsct60v-kbrnm935zg.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\j5polxx5ny-jj8uyg4cgr.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\wzepzzn81r-y7v9cxd14o.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\uao48ifxa2-notf2xhcfb.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\199hn1lev1-h1s4sie4z3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\814jnosotd-63fj8s7r0e.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\h6i730t4ww-0j3bgjxly4.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\lspr7ocnsb-47otxtyo56.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\whyd5h8b2w-4v8eqarkd7.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\hvkx8j1bus-356vix0kms.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\iiwaaroibx-83jwlth58m.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\z4afutjodu-mrlpezrjn3.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\jra8uze65g-lzl9nlhx6b.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\8sjh82rpxi-ag7o75518u.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\dwtcxmz4f8-x0q3zqp4vz.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\hlf46wxwcq-0i3buxo5is.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\6qd97x40ot-o1o13a6vjx.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\euw9wajagk-ttgo8qnofa.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\3gncyr8i4w-2z0ns9nrw6.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\z7qnezoizb-muycvpuwrr.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\0v3988o7u0-87fc7y1x7t.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\gqvf7edcgi-mlv21k5csn.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\5idfy52jyv-o1uj0nqc9q.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\compressed\wv4rtu5t6i-o1uj0nqc9q.gz
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.build.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.development.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAucti.F6337202.Up2Date
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\refint\SimAuctionMVC.dll
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.pdb
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\SimAuctionMVC.genruntimeconfig.cache
+D:\New folder\ASP.NET\28092025- doanphuocmien\sim số đẹp\1\SimAuctionMVC\obj\Debug\net9.0\ref\SimAuctionMVC.dll
